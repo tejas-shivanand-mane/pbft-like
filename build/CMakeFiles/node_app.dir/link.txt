@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/node_app.dir/src/main_node.cpp.o CMakeFiles/node_app.dir/src/node.cpp.o -o node_app  -lzmq 

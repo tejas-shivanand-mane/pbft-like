@@ -1,0 +1,4 @@
+/home/tejas/work/pbft-like/build/CMakeFiles/node_app.dir
+/home/tejas/work/pbft-like/build/CMakeFiles/client_app.dir
+/home/tejas/work/pbft-like/build/CMakeFiles/edit_cache.dir
+/home/tejas/work/pbft-like/build/CMakeFiles/rebuild_cache.dir
